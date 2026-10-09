@@ -66,7 +66,7 @@ You can also paste the script content directly under "Organisation", "Scripts".
 
 ## Use scripts
 
-In Landscape, select the target computers,
+In Landscape, select the target computers and
 choose a stored script from the script execution UI.
 
 Read the execution result in the computer's Activities.
