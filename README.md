@@ -40,7 +40,7 @@ Snap logs require root.
 
 When uploading scripts,
 make sure to select the relevant user to run them.
-Run ROS discovery and log scripts as the user running your ROS 2 nodes.
+Run ROS 2 topics discovery and log scripts as the user running your ROS 2 nodes.
 Run snap-log and ROS ESM scripts as root.
 
 ## Upload scripts to Landscape

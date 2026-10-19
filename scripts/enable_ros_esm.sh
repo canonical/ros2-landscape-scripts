@@ -8,6 +8,7 @@ set -euo pipefail
 apt update
 apt install --yes ubuntu-pro-client
 
+pro attach "${PRO_TOKEN:?Set PRO_TOKEN to your Ubuntu Pro token}"
 pro enable ros
 
 apt update
